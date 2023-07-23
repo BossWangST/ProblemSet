@@ -13,4 +13,9 @@ __pycache__/*
 
 # mac
 .DS_Store
-.idea/*
+
+# Intellij
+cpp/cmake-build-debug/*
+cpp/.idea
+python/.idea
+CMakeLists.txt
