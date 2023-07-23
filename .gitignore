@@ -12,5 +12,5 @@
 __pycache__/* 
 
 # mac
-*.DS_Store
-*.idea
+.DS_Store
+.idea/*
