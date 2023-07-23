@@ -10,3 +10,6 @@
 *.pyc 
 *.pyo 
 __pycache__/* 
+
+# mac
+*.DS_Store
