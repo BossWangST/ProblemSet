@@ -44,3 +44,6 @@ java/.nb-gradle/
 
 ### VS Code ###
 java/.vscode/
+
+# Xcode
+cpp/cpp/cpp.xcodeproj
