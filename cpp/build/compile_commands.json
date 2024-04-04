@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/mac/Documents/University/NNU/Algorithm/Problems/cpp/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/cf891_d.dir/2023-8-20/cf891_d.cpp.o -c /Users/mac/Documents/University/NNU/Algorithm/Problems/cpp/2023-8-20/cf891_d.cpp",
+  "file": "/Users/mac/Documents/University/NNU/Algorithm/Problems/cpp/2023-8-20/cf891_d.cpp",
+  "output": "CMakeFiles/cf891_d.dir/2023-8-20/cf891_d.cpp.o"
+}
+]
